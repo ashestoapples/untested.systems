@@ -1,0 +1,23 @@
+html, body {
+    background-color: #222222;
+}
+
+hr { 
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 40%;
+    border-style: inset;
+    border-width: 0px;
+    color: #aaaaaa;
+    background-color: #aaaaaa;
+    height: 4px;
+}
+
+p {
+    color: #aaaaaa;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
